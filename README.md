@@ -1,4 +1,4 @@
-# ShapeAI Bootcamp PYTHONDATA ANALYTICS
+# ShapeAI Bootcamp PYTHON DATA ANALYTICS
 
 ### ShapeAI_Bootcamp_PDA
 ### PYTHON DATA ANALYTICS
